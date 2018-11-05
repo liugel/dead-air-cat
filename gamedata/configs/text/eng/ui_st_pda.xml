@@ -1,475 +1,475 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="Time">
-		<text>Time</text>
+		<text>Hora</text>
 	</string>
 	<string id="filter_secondary_tasks_text">
-		<text>Secondary tasks</text>
+		<text>Missions secundаries</text>
 	</string>
 	<string id="filter_treasures_text">
-		<text>Stashes</text>
+		<text>Disposicions</text>
 	</string>
 	<string id="missions_list">
-		<text>Task list</text>
+		<text>Llista de missions</text>
 	</string>
 	<string id="month_april">
-		<text>April</text>
+		<text>Abril</text>
 	</string>
 	<string id="month_august">
-		<text>August</text>
+		<text>Agost</text>
 	</string>
 	<string id="month_december">
-		<text>December</text>
+		<text>Desembre</text>
 	</string>
 	<string id="month_february">
-		<text>February</text>
+		<text>Febrer</text>
 	</string>
 	<string id="month_january">
-		<text>January</text>
+		<text>Gener</text>
 	</string>
 	<string id="month_july">
-		<text>July</text>
+		<text>Juliol</text>
 	</string>
 	<string id="month_june">
-		<text>June</text>
+		<text>Juny</text>
 	</string>
 	<string id="month_march">
-		<text>March</text>
+		<text>Marз</text>
 	</string>
 	<string id="month_may">
-		<text>May</text>
+		<text>Maig</text>
 	</string>
 	<string id="month_november">
-		<text>November</text>
+		<text>Novembre</text>
 	</string>
 	<string id="month_october">
-		<text>October</text>
+		<text>Octubre</text>
 	</string>
 	<string id="month_september">
-		<text>September</text>
+		<text>Setembre</text>
 	</string>
 	<string id="pda_btn_close">
-		<text>Close PDA</text>
+		<text>Tanca la PDA</text>
 	</string>
 	<string id="pda_btn_logs">
-		<text>Messages</text>
+		<text>Missatges</text>
 	</string>
 	<string id="pda_btn_logs_hint">
-		<text>Show message history</text>
+		<text>Mostra l'historial de missatges</text>
 	</string>
 	<string id="pda_btn_quests">
-		<text>Map</text>
+		<text>Mapa</text>
 	</string>
 	<string id="pda_btn_quests_hint">
-		<text>Show the map and task list</text>
+		<text>Mostra el mapa i la llista de tasques</text>
 	</string>
 	<string id="pda_btn_ranking">
-		<text>Statistics</text>
+		<text>Estadнstiques</text>
 	</string>
 	<string id="pda_btn_ranking_hint">
-		<text>Show personal statistics</text>
+		<text>Mostra estadнstiques personals</text>
 	</string>
 	<string id="pda_cur_time">
-		<text>Current time:</text>
+		<text>Hora actual:</text>
 	</string>
 	<string id="pda_date_filter">
-		<text>Filter by date</text>
+		<text>Filtra per data</text>
 	</string>
 	<string id="pda_filter_news">
-		<text>Show news</text>
+		<text>Mostra novetats</text>
 	</string>
 	<string id="pda_filter_talk">
-		<text>Show dialogues</text>
+		<text>Mostra diаlegs</text>
 	</string>
 	<string id="pda_legend_caption">
-		<text>Symbols</text>
+		<text>Llegenda</text>
 	</string>
 	<string id="pda_stat_1">
-		<text>Time elapsed:</text>
+		<text>Temps transcorregut:</text>
 	</string>
 	<string id="pda_stat_2">
-		<text>Emissions survived:</text>
+		<text>Emissions sobreviscudes:</text>
 	</string>
 	<string id="pda_stat_3">
-		<text>Tasks completed:</text>
+		<text>Tasques completades:</text>
 	</string>
 	<string id="pda_stat_4">
-		<text>Mutants killed:</text>
+		<text>Mutants morts:</text>
 	</string>
 	<string id="pda_stat_5">
-		<text>Stalkers killed:</text>
+		<text>Stalkers assassinats:</text>
 	</string>
 	<string id="pda_stat_6">
-		<text>Boxes smashed:</text>
+		<text>Caixes esmicolades:</text>
 	</string>
 	<string id="pda_stat_7">
-		<text>Stashes found:</text>
+		<text>Amagatalls trobats:</text>
 	</string>
 	<string id="pda_stat_8">
-		<text>Psi-storms survived:</text>
+		<text>Psico-tempestes sobreviscudes:</text>
 	</string>
 	<string id="pda_stat_9">
-		<text>PDAs delivered:</text>
+		<text>PDAs entregades:</text>
 	</string>
 	<string id="pda_stat_10">
-		<text>Helicopters downed:</text>
+		<text>Helicтpters derribats:</text>
 	</string>
 	<string id="pda_stat_11">
-		<text>Artefacts detected:</text>
+		<text>Artefactes detectats:</text>
 	</string>
 	<string id="pda_stat_12">
-		<text>Wounded helped:</text>
+		<text>Ferits ajudats:</text>
 	</string>
 	<string id="pda_stat_13">
-		<text>Level changes:</text>
+		<text>Canvis de nivell:</text>
 	</string>
 	<string id="pda_stat_14">
-		<text>Enemy forfeits:</text>
+		<text>Enemics rendits:</text>
 	</string>
 	<string id="pda_stat_15">
-		<text>Field dressings:</text>
+		<text>Apтsits aplicats:</text>
 	</string>
 	<string id="pda_stat_16">
-		<text>Favourite weapon:</text>
+		<text>Arma favorita:</text>
 	</string>
 	<string id="pda_stat_17">
-		<text>Skills:</text>
+		<text>Habilitats:</text>
 	</string>
 	<string id="pda_stat_18">
-		<text>Levels visited:</text>
+		<text>Nivells visitats:</text>
 	</string>
 	<string id="pda_stat_money">
-		<text>Money:</text>
+		<text>Diners:</text>
 	</string>
 	<string id="pda_stat_mutant_killed">
-		<text>Most powerful mutant killed</text>
+		<text>Mutant mйs poderуs que has mort</text>
 	</string>
 	<string id="st_location">
-		<text>Location:</text>
+		<text>Ubicaciу:</text>
 	</string>
 	<string id="st_target">
-		<text>Goal</text>
+		<text>Objectiu</text>
 	</string>
 	<string id="st_ui_pda_legend_additional_task">
-		<text>Secondary task</text>
+		<text>Tasca secundаria</text>
 	</string>
 	<string id="st_ui_pda_legend_enemies">
-		<text>Enemies</text>
+		<text>Enemics</text>
 	</string>
 	<string id="st_ui_pda_legend_friends">
-		<text>Friends</text>
+		<text>Amics</text>
 	</string>
 	<string id="st_ui_pda_legend_leader">
-		<text>Faction leader</text>
+		<text>Lнder de la facciу</text>
 	</string>
 	<string id="st_ui_pda_legend_main_task">
-		<text>Main task</text>
+		<text>Tasca principal</text>
 	</string>
 	<string id="st_ui_pda_legend_neutrals">
 		<text>Neutrals</text>
 	</string>
 	<string id="st_ui_pda_legend_scout">
-		<text>Guide</text>
+		<text>Guia</text>
 	</string>
 	<string id="st_ui_pda_legend_secrets">
-		<text>Stashes</text>
+		<text>Amagatalls</text>
 	</string>
 	<string id="st_ui_pda_legend_squad">
-		<text>Squad commander</text>
+		<text>Comandant d'esquadra</text>
 	</string>
 	<string id="st_ui_pda_legend_trader">
-		<text>Trader</text>
+		<text>Comerciant</text>
 	</string>
 	<string id="ui_logs_center_caption">
-		<text>Message history</text>
+		<text>Historial de missatges</text>
 	</string>
 	<string id="ui_map_btn_center">
-		<text>Center on player</text>
+		<text>Centrar en el jugador</text>
 	</string>
 	<string id="ui_map_btn_down">
-		<text>Move down</text>
+		<text>Moure cap avall</text>
 	</string>
 	<string id="ui_map_btn_left">
-		<text>Move left</text>
+		<text>Moure a l'esquerra</text>
 	</string>
 	<string id="ui_map_btn_legend">
-		<text>Show legend</text>
+		<text>Mostrar llegenda</text>
 	</string>
 	<string id="ui_map_btn_right">
-		<text>Move right</text>
+		<text>Moure a la dreta</text>
 	</string>
 	<string id="ui_map_btn_up">
-		<text>Move up</text>
+		<text>Moure cap amunt</text>
 	</string>
 	<string id="ui_map_btn_zmreset">
-		<text>Zoom reset</text>
+		<text>Restablir el zoom</text>
 	</string>
 	<string id="ui_map_btn_zoom_in">
-		<text>Zoom in</text>
+		<text>Ampliar</text>
 	</string>
 	<string id="ui_map_btn_zoom_out">
-		<text>Zoom out</text>
+		<text>Disminuir</text>
 	</string>
 	<string id="ui_ranking_center_caption">
-		<text>Achievements</text>
+		<text>Avantatges</text>
 	</string>
 	<string id="ui_task_btn_focus_center">
-		<text>Center map on objective</text>
+		<text>Centrar el mapa en l'objectiu</text>
 	</string>
 	<string id="ui_task_btn_focus_center2">
-		<text>Center map on objective</text>
+		<text>Centrar el mapa en l'objectiu</text>
 	</string>
 	<string id="zoom_in_btn_hint">
-		<text>Zoom +</text>
+		<text>+ Zoom</text>
 	</string>
 	<string id="zoom_out_btn_hint">
-		<text>Zoom -</text>
+		<text>- Zoom</text>
 	</string>
 	<string id="st_ui_pda_legend_mechanic">
-		<text>Technician</text>
+		<text>Tиcnic</text>
 	</string>
 	<string id="st_ui_pda_legend_medic">
-		<text>Medic</text>
+		<text>Metge</text>
 	</string>
 	<string id="ui_pda_secondary_task">
-		<text>Active tasks</text>
+		<text>Tasques actives</text>
 	</string>
 	<string id="ui_show_second_task_wnd">
-		<text>Hide or display a list of tasks</text>
+		<text>Amaga o mostra la llista de tasques</text>
 	</string>
 	<string id="st_ui_pda_actor_box">
-		<text>Personal storage</text>
+		<text>Emmagatzematge personal</text>
 	</string>
 	<string id="filter_primary_objects_text">
-		<text>Anomalous areas</text>
+		<text>Аrees anтmales</text>
 	</string>
 	<string id="filter_quest_npcs_text">
-		<text>Important objects</text>
+		<text>Objectes importants</text>
 	</string>
 	<string id="st_ui_pda_legend_primary_objects">
-		<text>Area</text>
+		<text>Аrea</text>
 	</string>
 	<string id="st_jup_b32_has_af">
-		<text>Scanners detect the presence of artefacts:</text>
+		<text>Els detectors capten la presиncia d'artefactes:</text>
 	</string>
 	<string id="st_jup_b32_no_af">
-		<text>According to scanners, there are no artefacts.</text>
+		<text>Segons els detectors, no hi ha artefactes.</text>
 	</string>
 	<string id="st_ui_pda_secret">
-		<text>Stash</text>
+		<text>Amagatall</text>
 	</string>
 	<string id="st_ui_pda_sleep_place">
-		<text>Bed</text>
+		<text>Llit</text>
 	</string>
-
+	
 	<!-- Call of Chernobyl -->
 	<string id="st_ui_pda_legend_vip">
-		<text>Important character</text>
+		<text>Personatge important</text>
 	</string>
 	<string id="zombie_name">
-		<text>John Doe</text>
+		<text>En Pau</text>
 	</string>
 	<string id="st_ui_pda_task_unknown_enemy">
-		<text>Unknown enemy</text>
+		<text>Enemic desconegut</text>
 	</string>
 	<string id="st_items_sold">
-		<text>Items sold</text>
+		<text>Articles venuts</text>
 	</string>
 	<string id="st_last_seen">
-		<text>Last seen</text>
+		<text>Vist per ъltim cop</text>
 	</string>
 	<string id="st_artefacts_found">
-		<text>Artefacts found</text>
+		<text>Artefactes trobats</text>
 	</string>
 	<string id="st_stalkers_killed">
-		<text>Stalkers killed</text>
+		<text>Stalkers assassinats</text>
 	</string>
 	<string id="st_mutants_killed">
-		<text>Mutants killed</text>
+		<text>Mutants morts</text>
 	</string>
 	<string id="pda_btn_relations">
-		<text>Relations</text>
+		<text>Relacions</text>
 	</string>
 	<string id="pda_btn_relations_hint">
-		<text>Show faction relations</text>
+		<text>Mostra les relacions amb les faccions</text>
 	</string>
 	<string id="pda_relations_header">
-		<text>Faction Relations</text>
+		<text>Relacions amb faccions</text>
 	</string>
 	<string id="pda_companions_header">
-		<text>Companions</text>
+		<text>Companys</text>
 	</string>
 	<string id="pda_table_value_on">
-		<text>Display text</text>
+		<text>Mostra el text</text>
 	</string>
 	<string id="pda_table_value_off">
-		<text>Display values</text>
+		<text>Mostra els valors</text>
 	</string>
 	<string id="pda_companions_auto">
-		<text>Refresh</text>
+		<text>Actualitzar</text>
 	</string>
 	<string id="pda_show_enemy">
-		<text>Display enemies</text>
+		<text>Mostra els enemics</text>
 	</string>
-
+	
 	<string id="st_pda_mode_on">
-		<text>On</text>
+		<text>Activat</text>
 	</string>
 	<string id="st_pda_mode_off">
-		<text>Off</text>
+		<text>Desactivat</text>
 	</string>
 	<string id="st_pda_mode_dist_far">
-		<text>Far</text>
+		<text>Lluny</text>
 	</string>
 	<string id="st_pda_mode_dist_near">
-		<text>Near</text>
+		<text>A prop</text>
 	</string>
 	<string id="st_pda_mode_true">
-		<text>True</text>
+		<text>Sн</text>
 	</string>
 	<string id="st_pda_mode_false">
-		<text>False</text>
+		<text>No</text>
 	</string>
 	<string id="st_pda_mode_enabled">
-		<text>Enabled</text>
+		<text>Activat</text>
 	</string>
 	<string id="st_pda_mode_disabled">
-		<text>Disabled</text>
+		<text>Desactivat</text>
 	</string>
 	<string id="st_pda_distance_state_far">
-		<text>Distance keep far</text>
+		<text>Mantindre's lluny</text>
 	</string>
 	<string id="st_pda_distance_state_near">
-		<text>Distance keep near</text>
+		<text>Mantindre's a prop</text>
 	</string>
 	<string id="st_pda_cant_trade">
-		<text>Task-related stalkers can’t trade</text>
+		<text>Els stalkers relacionats amb la tasca no poden comerciar</text>
 	</string>
-
+	
 	<!-- PDA Relations Action list -->
 	<string id="st_pda_action_back">
-		<text>Back</text>
+		<text>Tornar</text>
 	</string>
 	<string id="st_pda_action_1__1">
-		<text>Lend items</text>
+		<text>Deixar objectes</text>
 	</string>
 	<string id="st_pda_action_1__2">
-		<text>Commands</text>
+		<text>Ordres</text>
 	</string>
 	<string id="st_pda_action_1__2_2">
-		<text>Movement</text>
+		<text>Moviment</text>
 	</string>
 	<string id="st_pda_action_1__2_2_2_on">
-		<text>Follow</text>
+		<text>Seguir</text>
 	</string>
 	<string id="st_pda_action_1__2_2_2_off">
-		<text>Wait</text>
+		<text>Esperar</text>
 	</string>
 	<string id="st_pda_action_1__2_2_3_on">
-		<text>Distance (near)</text>
+		<text>Distаncia (a prop)</text>
 	</string>
 	<string id="st_pda_action_1__2_2_3_off">
-		<text>Distance (far)</text>
+		<text>Distаncia (lluny)</text>
 	</string>
 	<string id="st_pda_action_1__2_3">
-		<text>Combat</text>
+		<text>Actitud</text>
 	</string>
 	<string id="st_pda_action_1__2_4">
-		<text>Looting</text>
+		<text>Botн</text>
 	</string>
 	<string id="st_pda_action_1__2_5_on">
-		<text>Stealth (disable)</text>
+		<text>Sigil (desactivar)</text>
 	</string>
 	<string id="st_pda_action_1__2_5_off">
-		<text>Stealth (enable)</text>
+		<text>Sigil (activar)</text>
 	</string>
 	<string id="st_pda_action_1__2_3_2">
-		<text>Passive</text>
+		<text>Passiva</text>
 	</string>
 	<string id="st_pda_action_1__2_3_3">
-		<text>Defensive</text>
+		<text>Defensiva</text>
 	</string>
 	<string id="st_pda_action_1__2_3_4">
-		<text>Aggressive</text>
+		<text>Agressiva</text>
 	</string>
 	<string id="st_pda_action_1__2_4_2_on">
-		<text>Items (disable)</text>
+		<text>Elements (desactivar)</text>
 	</string>
 	<string id="st_pda_action_1__2_4_2_off">
-		<text>Items (enable)</text>
+		<text>Elements (activar)</text>
 	</string>
 	<string id="st_pda_action_1__2_4_3_on">
-		<text>Corpses (disable)</text>
+		<text>Cadаvers (desactivar)</text>
 	</string>
 	<string id="st_pda_action_1__2_4_3_off">
-		<text>Corpses (enable)</text>
+		<text>Cadаvers (activar)</text>
 	</string>
 	<string id="pda_btn_contacts">
-		<text>Contacts</text>
+		<text>Contactes</text>
 	</string>
 	<string id="pda_btn_contacts_hint">
-		<text>Show nearby contacts</text>
+		<text>Mostra contactes propers</text>
 	</string>
 	<string id="pda_show_known_contacts">
-		<text>Known contacts</text>
+		<text>Contactes coneguts</text>
 	</string>
 	<string id="pda_msg_all">
-		<text>All</text>
+		<text>Tots</text>
 	</string>
-
+	
 	<string id="st_mm_pda_statistics">
-		<text>Statistics</text>
+		<text>Estadнstiques</text>
 	</string>
 	<string id="st_mm_pda_stalkers_killed">
-		<text>Stalkers killed</text>
+		<text>Stalkers assassinats</text>
 	</string>
 	<string id="st_mm_pda_mutants_killed">
-		<text>Mutants killed</text>
+		<text>Mutants morts</text>
 	</string>
 	<string id="st_mm_pda_artes_found">
-		<text>Artefacts found</text>
+		<text>Artefactes trobats</text>
 	</string>
 	<string id="st_mm_pda_items_sold">
-		<text>Items sold</text>
+		<text>Articles venuts</text>
 	</string>
 	<string id="st_mm_pda_level_travel">
-		<text>Level travel</text>
+		<text>Canviar de nivell</text>
 	</string>
-
+	
 	<string id="st_mm_pda_dismissable">
-		<text>Dismissable</text>
+		<text>Descartable</text>
 	</string>
 	<string id="st_mm_pda_stealth">
-		<text>Stealth</text>
+		<text>Sigil</text>
 	</string>
 	<string id="st_mm_pda_keep_distance">
-		<text>Keep distance</text>
+		<text>Mantenir la distаncia</text>
 	</string>
 	<string id="st_mm_pda_loot_corpses">
-		<text>Loot corpses</text>
+		<text>Saquejar els cadаvers</text>
 	</string>
 	<string id="st_mm_pda_pickup_items">
-		<text>Pickup items</text>
+		<text>Recollir objectes</text>
 	</string>
 	<string id="st_mm_pda_combat">
 		<text>Combat</text>
 	</string>
 	<string id="st_mm_pda_movement">
-		<text>Movement</text>
+		<text>Moviment</text>
 	</string>
 	<string id="st_mm_pda_states">
-		<text>States</text>
+		<text>Estats</text>
 	</string>
 	<string id="st_mm_pda_location">
-		<text>Location</text>
+		<text>Ubicaciу</text>
 	</string>
 	<string id="st_pda_fast_travel">
-		<text>Quick travel</text>
+		<text>Viatge rаpid</text>
 	</string>
 	<string id="st_pda_display_values">
-		<text>Display Values</text>
+		<text>Mostrar els valors</text>
 	</string>
 	<string id="st_distance_to">
-		<text>Distance to</text>
+		<text>Distаncia a</text>
 	</string>
 </string_table>
