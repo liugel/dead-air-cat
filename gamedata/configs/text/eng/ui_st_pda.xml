@@ -7,7 +7,7 @@
 		<text>Missions secundàries</text>
 	</string>
 	<string id="filter_treasures_text">
-		<text>Disposicions</text>
+		<text>Amagatalls</text>
 	</string>
 	<string id="missions_list">
 		<text>Llista de missions</text>
@@ -76,10 +76,10 @@
 		<text>Filtra per data</text>
 	</string>
 	<string id="pda_filter_news">
-		<text>Mostra novetats</text>
+		<text>Mostra les novetats</text>
 	</string>
 	<string id="pda_filter_talk">
-		<text>Mostra diàlegs</text>
+		<text>Mostra les converses</text>
 	</string>
 	<string id="pda_legend_caption">
 		<text>Llegenda</text>
@@ -118,13 +118,13 @@
 		<text>Artefactes detectats:</text>
 	</string>
 	<string id="pda_stat_12">
-		<text>Ferits ajudats:</text>
+		<text>Ferits rescatats:</text>
 	</string>
 	<string id="pda_stat_13">
 		<text>Canvis de nivell:</text>
 	</string>
 	<string id="pda_stat_14">
-		<text>Enemics rendits:</text>
+		<text>Rendicions d'enemics:</text>
 	</string>
 	<string id="pda_stat_15">
 		<text>Apòsits aplicats:</text>
@@ -238,10 +238,10 @@
 		<text>Amaga o mostra la llista de tasques</text>
 	</string>
 	<string id="st_ui_pda_actor_box">
-		<text>Emmagatzematge personal</text>
+		<text>Caixa personal</text>
 	</string>
 	<string id="filter_primary_objects_text">
-		<text>Àrees anòmales</text>
+		<text>Zones anòmales</text>
 	</string>
 	<string id="filter_quest_npcs_text">
 		<text>Objectes importants</text>
@@ -337,7 +337,7 @@
 		<text>Desactivat</text>
 	</string>
 	<string id="st_pda_distance_state_far">
-		<text>Mantindre's lluny</text>
+		<text>Mantindre la distància</text>
 	</string>
 	<string id="st_pda_distance_state_near">
 		<text>Mantindre's a prop</text>

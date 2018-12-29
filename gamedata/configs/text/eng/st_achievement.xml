@@ -43,7 +43,7 @@
 		<text>Carnisser</text>
 	</string>
 	<string id="st_perk_butcher_hint">
-		<text>Extreus amb el ganivet els objectes i parts dels mutants cacats de forma mes ràpida i eficaç.</text>
+		<text>Extreus amb el ganivet els objectes i parts dels mutants caçats de forma mes ràpida i eficaç.</text>
 	</string>
 	<string id="st_perk_butcher_descr">
 		<text>La teua presència infon la por en les criatures de la Zona; en la vasta majoria dels casos, ets l'últim que veuen en la seva vida. Després d'haver après a bregar amb el cadàver d'un mutant, la gent t'ha començat a témer.</text>
@@ -69,7 +69,7 @@
 		<text>Motxilla de plom</text>
 	</string>
 	<string id="st_perk_lead_backpack_hint">
-		<text>Radiació reduida dels artefactes a la motxilla.</text>
+		<text>Protecció front a la radiació emesa pels artefactes de la teva motxilla.</text>
 	</string>
 	<string id="st_perk_lead_backpack_descr">
 		<text>Els regals de la Zona són atractius, però extremadament perillosos. No fa molt de temps vas aconseguir una motxilla especial, què hauria de poder neutralitzar part de la seua radiació. Ha arribat el moment de desempolsar-la.</text>
@@ -85,7 +85,7 @@
 		<text>Major probabilitat de trobar elements addicionals als amagatalls.</text>
 	</string>
 	<string id="st_perk_thoroughness_descr">
-		<text>Has après a percebre els detalls més insignificants, no només del comportament de les persones, sinó també de l'entorn. Durant les teues cerques, cap persona, cargol o copec poden romandre ocults de tu...</text>
+		<text>Has après a percebre els detalls més insignificants, no només del comportament de les persones, sinó també de l'entorn. Durant les teues cerques, ni una sola moneda, cargol o persona poden romandre ocults de tu...</text>
 	</string>
 	<string id="st_perk_thoroughness_unlock">
 		<text>Has desbloquejat l'avantatge "Atent".</text>
@@ -98,7 +98,7 @@
 		<text>Major probabilitat de trobar artefactes.</text>
 	</string>
 	<string id="st_perk_geologist_descr">
-		<text>Ni la tararejadora, la xiuladora o l'escopidora; ja cap tipus d'anomalia és capaç d'intimidar-te, i la teva necessitat d'explorar t'anima a viatjar a zones plenes d'aquestes.</text>
+		<text>Ni la tararejadora, la xiuladora o l'escopidora; ja cap tipus d'anomalia és capaç d'intimidar-te, i la teva necessitat d'explorar t'anima a viatjar a zones plenes d'elles.</text>
 	</string>
 	<string id="st_perk_geologist_unlock">
 		<text>Has desbloquejat l'avantatge "Geòleg".</text>
@@ -108,7 +108,7 @@
 		<text>Autoritat</text>
 	</string>
 	<string id="st_perk_authority_hint">
-		<text>El nombre màxim de companys augmenta, els interrogatoris són més eficaços, la reputació es guanya més ràpidament i als diàlegs tens alguna oportunitat addicional.</text>
+		<text>El nombre màxim de companys augmenta, els interrogatoris són més eficaços, la reputació es guanya més ràpidament i als diàlegs tens algun avantatge addicional.</text>
 	</string>
 	<string id="st_perk_authority_descr">
 		<text>Ja sigui a través de l'encant, una capacitat natural de socialitzar, o potser un coneixement subtil de la psicologia humana, tant se val; et guanyes fàcilment el cor de qualsevol persona, ja sigui un xerraire avariciós o un vertader psicòpata.</text>

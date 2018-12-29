@@ -136,7 +136,7 @@
 		<text>Doctor</text>
 	</string>
 	<string id="mar_smart_terrain_base_stalker_leader_marsh_name">
-		<text>Fred</text>
+		<text>Iceman</text>
 	</string>
 	<string id="esc_wolf_bio">
 		<text>Guàrdia personal de l'Àgil. Un vell stalker que desitja fer-se ric.</text>
@@ -145,7 +145,7 @@
 		<text>Llop</text>
 	</string>
 	<string id="esc_fanat_bio">
-		<text>Es va convertir en el líder del campament dels nouvinguts. Ple de propòsits, agressiu i amb una autoritat ben merescuda davant els nous en la Zona.</text>
+		<text>Es va convertir en el líder del campament dels nouvinguts. Ple de propòsits, agressiu i amb una autoritat ben merescuda davant els nous a la Zona.</text>
 	</string>
 	<string id="esc_fanat_name">
 		<text>Fanàtic</text>
@@ -154,10 +154,10 @@
 		<text>Barman</text>
 	</string>
 	<string id="bar_barmen_bio">
-		<text>Ni un sant ni un canalla. En Barman sap el que val i és respectat per tots els stalkers. Diuen els rumors que s'oculta a la Zona fugint d'alguns assumptes tèrbols del seu passat. Després d'un encontre amb una anomalia, va acabar coixejant lleugerament i aleshores va decidir canviar de treball. Va muntar un bar a prop de la facció Deure, i a poc a poc el lloc es va convertir en el punt de trobada de tots els veterans de la Zona. Barman té nombrosos contactes, tant a la Zona com al món exterior.</text>
+		<text>Ni un sant ni un canalla. En Barman sap el que val i és respectat per tots els stalkers. Diuen els rumors que s'oculta a la Zona fugint d'alguns assumptes tèrbols del seu passat. Després d'un encontre amb una anomalia, va acabar coixejant lleugerament i aleshores va decidir canviar de treball. Va muntar un bar a prop dels lleials a la faccio Deure, i a poc a poc el lloc es va convertir en el punt de trobada de tots els veterans de la Zona. En Barman té nombrosos contactes, tant a la Zona com al món exterior.</text>
 	</string>
 	<string id="bar_bar_guard_bio">
-		<text>El goril·la del bar. O, si ho prefereixes, el guardaespatlles del Barman. Res es coneix sobre el seu present o el seu passat.</text>
+		<text>El goril·la del bar. O, si ho prefereixes, el guardaespatlles d'en Barman. Res es coneix sobre el seu present o el seu passat.</text>
 	</string>
 	<string id="bar_bar_guard_name">
 		<text>Garik</text>
@@ -175,7 +175,7 @@
 		<text>Sergent Kitsenko</text>
 	</string>
 	<string id="sim_dolg_veteran_bio">
-		<text>Militant de la facció Deure. Normalment va ben equipat. No hi ha més informació disponible.</text>
+		<text>Membre de la facció Deure. Normalment va ben equipat. No hi ha més informació disponible.</text>
 	</string>
 	<string id="escape_trader_bio">
 		<text>Ha estat guanyant-se la vida comerciant des de menut. A la guarderia, solia vendre llapis de colors. En secundària, es va posar a vendre xiclets. A la facultat, va traficar amb drogues blanes. Tan aviat com va ser a la Zona, es va adonar del seu potencial per al capital. És famós per ser capaç d'establir relacions comercials amb qualsevol tipus de client.</text>
@@ -277,7 +277,7 @@
 		<text>Vasya "el Senglar"</text>
 	</string>
 	<string id="sar2_bio">
-		<text>Un ens psicomaterial creat per Monòlit.</text>
+		<text>Un ens psicomaterial creat pel Monòlit.</text>
 	</string>
 	<string id="sar2_borov_name">
 		<text>Borov</text>
